@@ -1,0 +1,26 @@
+<annotation>
+    <folder>tmpj55unzpm</folder>
+    <filename>cjur75hxkyze0076481owq1zw.jpeg</filename>
+    <path>/tmp/tmpj55unzpm/cjur75hxkyze0076481owq1zw.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>566</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Varrao</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>216</xmin>
+                <ymin>139</ymin>
+                <xmax>289</xmax>
+                <ymax>222</ymax>
+            </bndbox>
+        </object>
+    </annotation>
